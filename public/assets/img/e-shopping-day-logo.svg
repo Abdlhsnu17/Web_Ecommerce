@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 190" role="img" aria-labelledby="title">
+  <title id="title">E-SHOPING DAY</title>
+  <g transform="translate(8 5)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 55h25l13 79a17 17 0 0 0 17 14h87a17 17 0 0 0 17-14l11-58H91" stroke="#126ac7" stroke-width="12"/>
+    <path d="M111 76a29 29 0 1 1 58 0v14" stroke="#f39112" stroke-width="11"/>
+    <circle cx="68" cy="50" r="18" stroke="#f39112" stroke-width="7"/>
+    <path d="M68 18V8m0 84v-9M36 50H26m84 0h-9M45 27l-7-7m60 60-7-7" stroke="#f39112" stroke-width="6"/>
+    <path d="m158 104 24 7-8 8 13 12-8 8-12-13-8 8z" fill="#126ac7" stroke="#126ac7" stroke-width="3"/>
+  </g>
+  <text x="248" y="126" font-family="Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-2"><tspan fill="#126ac7">E-</tspan><tspan fill="#193d64">SHOPING DAY</tspan></text>
+</svg>
